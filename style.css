@@ -1,0 +1,9 @@
+.hello-h2 {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 140px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
